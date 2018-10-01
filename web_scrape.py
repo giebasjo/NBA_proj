@@ -312,11 +312,17 @@ master_bbref_df.columns = master_bbref_df.columns.tolist()[:-1] + ["PLAYER"]
 master_bbref_df.to_csv( path + "BBREF_DATA.csv" )
 
 """
-Merge all dataframes together
+Merge all dataframes together / clean master
 """
 
 master_df = master_df.merge( master_bbref_df, on="PLAYER" )
 master_df = master_df.merge( master_espn_df, on="PLAYER" )
+
+master_df = master_df.drop_duplicates("PLAYER")
+master_df.index = master_df["PLAYER"]
+master_df = master_df.drop(["PLAYER"], axis=1)
+
+master_df.to_csv( path + td + "_main.csv" )
 
 print("Love you, \n \tJG")
 

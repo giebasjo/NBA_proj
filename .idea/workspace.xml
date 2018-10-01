@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44e7b33b-a90d-4e2e-a801-226a65c326ec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web_scrape.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_driver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_driver.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/outFile.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web_scraping/Web_Scrape.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web_scraping/data_webscrape.ipynb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/data_webscrape-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/data_webscrape-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/final_webscraping-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/final_webscraping-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_webscrape.ipynb" afterPath="$PROJECT_DIR$/data_webscrape.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_webscraping.ipynb" afterPath="$PROJECT_DIR$/final_webscraping.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/scrape_NBA_stats-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/scrape_NBA_stats-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrape_NBA_stats.ipynb" afterPath="$PROJECT_DIR$/scrape_NBA_stats.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web_scrape.py" afterPath="$PROJECT_DIR$/web_scrape.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +19,8 @@
       <file leaf-file-name="web_scrape.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web_scrape.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="32" column="44" lean-forward="false" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="201">
+              <caret line="314" column="44" lean-forward="false" selection-start-line="314" selection-start-column="44" selection-end-line="314" selection-end-column="44" />
               <folding>
                 <element signature="e#409#428#0" expanded="true" />
               </folding>
@@ -330,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web_scrape.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="32" column="44" lean-forward="false" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="201">
+          <caret line="314" column="44" lean-forward="false" selection-start-line="314" selection-start-column="44" selection-end-line="314" selection-end-column="44" />
           <folding>
             <element signature="e#409#428#0" expanded="true" />
           </folding>
